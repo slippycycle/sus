@@ -1,7 +1,6 @@
 <template>
   <div class="new-chat">
     </div>
-  </div>
 </template>
 
 <script>
