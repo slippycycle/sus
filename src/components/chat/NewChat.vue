@@ -1,17 +1,5 @@
 <template>
   <div class="new-chat">
-    <div class="send-hi-aler-wrap">
-      <p>
-        {{ text }}
-      </p>
-
-      <div class="img-wrap" @click="sayHi">
-        <img
-          src="https://cdn-icons-png.flaticon.com/512/6122/6122948.png"
-          alt="hi text"
-        />
-      </div>
-    
     </div>
   </div>
 </template>
